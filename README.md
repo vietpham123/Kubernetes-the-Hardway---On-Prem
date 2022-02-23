@@ -17,7 +17,7 @@ cni v0.9.1
 etcd v3.4.15
 Labs
 
-This tutorial assumes you have access to the Google Cloud Platform. While GCP is used for basic infrastructure requirements the lessons learned in this tutorial can be applied to other platforms.
+This tutorial is designed to be run On-Prem either as VMs or on bare metal. 
 
 Prerequisites
 Installing the Client Tools
